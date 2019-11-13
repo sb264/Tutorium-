@@ -1,0 +1,15 @@
+from,to,weight
+Sandra,Doris,3
+Sandra,Gerhard,2
+Gerhard,Doris,3
+Sabrina,Sandra,3
+Sabrina,Doris,2
+Sabrina,Gerhard,1
+Hannah,Sandra,2
+Hannah,Doris,1
+Hannah,Gerhard,0
+Sophie,Hannah,3
+Sophie,Sanda,2
+Sophie,Sabrina,2
+Sophie,Doris,1
+Sophie,Gerhard,0
